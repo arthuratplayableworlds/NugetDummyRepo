@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PyMLjlvY5d5eTNtPPVsXm3xZGUWY6owFKUtGes3y4tskLmiENliuncW8iXLIj5qkSY2vXsfOFs6B7a9CK88TWw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\NugetDummyRepo\\NugetDummyRepo\\NugetDummyRepo\\NugetDummyRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthur\\.nuget\\packages\\gitversion.msbuild\\5.11.1\\gitversion.msbuild.5.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
