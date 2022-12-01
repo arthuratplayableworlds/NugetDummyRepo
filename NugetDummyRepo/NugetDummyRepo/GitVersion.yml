@@ -2,19 +2,6 @@ mode: ContinuousDeployment
 assembly-versioning-scheme: MajorMinorPatch
 assembly-file-versioning-scheme: MajorMinorPatch
 assembly-informational-format: '{InformationalVersion}'
-branches: 
-  main:
-    regex: ^master$|^main$
-    mode: ContinuousDelivery
-    tag: ''
-    increment: Patch
-    prevent-increment-of-merged-branch-version: true
-    track-merge-target: false
-    source-branches: [ 'develop', 'release' ]
-    tracks-release-branches: false
-    is-release-branch: false
-    is-mainline: true
-    pre-release-weight: 55000
 ignore:
   sha: [ ]
 merge-message-formats: { }
