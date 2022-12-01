@@ -10,6 +10,8 @@ public class Class1
     {
         var assembly = Assembly.GetAssembly(typeof(Class1));
         var version = FileVersionInfo.GetVersionInfo(assembly.Location).ProductVersion;
+        
+        
         Console.WriteLine($"This is the dummy repo version : {version}.");
         
         
