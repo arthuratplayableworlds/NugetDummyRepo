@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "NugetDummyRepo/2.0.6-jenkins-ci0001": {
+      "NugetDummyRepo/2.1.0-jenkins-ci0002": {
         "dependencies": {
           "GitVersion.MsBuild": "5.11.1"
         },
@@ -18,7 +18,7 @@
     }
   },
   "libraries": {
-    "NugetDummyRepo/2.0.6-jenkins-ci0001": {
+    "NugetDummyRepo/2.1.0-jenkins-ci0002": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
