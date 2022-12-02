@@ -1,10 +1,10 @@
 C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\bin\Debug\net6.0\NugetDummyRepo.deps.json
 C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\bin\Debug\net6.0\NugetDummyRepo.dll
 C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\bin\Debug\net6.0\NugetDummyRepo.pdb
-C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\NugetDummyRepo.csproj.AssemblyReference.cache
-C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\NugetDummyRepo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\GitVersionInformation.g.cs
 C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\AssemblyInfo.g.cs
+C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\NugetDummyRepo.csproj.AssemblyReference.cache
+C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\NugetDummyRepo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\NugetDummyRepo.AssemblyInfoInputs.cache
 C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\NugetDummyRepo.AssemblyInfo.cs
 C:\Projects\NugetDummyRepo\NugetDummyRepo\NugetDummyRepo\obj\Debug\net6.0\NugetDummyRepo.csproj.CoreCompileInputs.cache
