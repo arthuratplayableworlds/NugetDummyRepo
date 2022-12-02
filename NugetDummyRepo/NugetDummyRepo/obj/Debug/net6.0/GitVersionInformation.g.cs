@@ -28,10 +28,10 @@ namespace System.Diagnostics.CodeAnalysis
 [global::System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverage]
 static class GitVersionInformation
 {
-    public static string Major = "2";
-    public static string Minor = "2";
-    public static string Patch = "1";
-    public static string PreReleaseTag = "14";
+    public static string Major = "3";
+    public static string Minor = "0";
+    public static string Patch = "0";
+    public static string PreReleaseTag = "15";
     public static string PreReleaseTagWithDash = "";
     public static string PreReleaseLabel = "";
     public static string PreReleaseLabelWithDash = "";
@@ -39,26 +39,26 @@ static class GitVersionInformation
     public static string WeightedPreReleaseNumber = "60000";
     public static string BuildMetaData = "";
     public static string BuildMetaDataPadded = "";
-    public static string FullBuildMetaData = "Branch.jenkins-ci.Sha.86a770d8b9e46775dba00c48b483847c68fb35e8";
-    public static string MajorMinorPatch = "2.2.1";
-    public static string SemVer = "2.2.1";
-    public static string LegacySemVer = "2.2.1";
-    public static string LegacySemVerPadded = "2.2.1";
-    public static string AssemblySemVer = "2.2.1.0";
-    public static string AssemblySemFileVer = "2.2.1.0";
-    public static string FullSemVer = "2.2.1";
-    public static string InformationalVersion = "2.2.1+Branch.jenkins-ci.Sha.86a770d8b9e46775dba00c48b483847c68fb35e8";
+    public static string FullBuildMetaData = "Branch.jenkins-ci.Sha.69693d95555f173aa53478d1891998487b6c0c6b";
+    public static string MajorMinorPatch = "3.0.0";
+    public static string SemVer = "3.0.0";
+    public static string LegacySemVer = "3.0.0";
+    public static string LegacySemVerPadded = "3.0.0";
+    public static string AssemblySemVer = "3.0.0.0";
+    public static string AssemblySemFileVer = "3.0.0.0";
+    public static string FullSemVer = "3.0.0";
+    public static string InformationalVersion = "3.0.0+Branch.jenkins-ci.Sha.69693d95555f173aa53478d1891998487b6c0c6b";
     public static string BranchName = "jenkins-ci";
     public static string EscapedBranchName = "jenkins-ci";
-    public static string Sha = "86a770d8b9e46775dba00c48b483847c68fb35e8";
-    public static string ShortSha = "86a770d";
-    public static string NuGetVersionV2 = "2.2.1";
-    public static string NuGetVersion = "2.2.1";
+    public static string Sha = "69693d95555f173aa53478d1891998487b6c0c6b";
+    public static string ShortSha = "69693d9";
+    public static string NuGetVersionV2 = "3.0.0";
+    public static string NuGetVersion = "3.0.0";
     public static string NuGetPreReleaseTagV2 = "";
     public static string NuGetPreReleaseTag = "";
     public static string VersionSourceSha = "a543fd4a0192bb9138b0d9f7b17da820a16f9095";
-    public static string CommitsSinceVersionSource = "14";
-    public static string CommitsSinceVersionSourcePadded = "0014";
-    public static string UncommittedChanges = "62";
+    public static string CommitsSinceVersionSource = "15";
+    public static string CommitsSinceVersionSourcePadded = "0015";
+    public static string UncommittedChanges = "67";
     public static string CommitDate = "2022-12-02";
 }
