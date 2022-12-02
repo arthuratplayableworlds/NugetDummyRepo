@@ -8,6 +8,6 @@
 
 using System.Reflection;
 
-[assembly: AssemblyFileVersion("2.2.0.0")]
-[assembly: AssemblyVersion("2.2.0.0")]
-[assembly: AssemblyInformationalVersion("2.2.0+Branch.jenkins-ci.Sha.d9f12fec10ca66bf4bfc15f16ca041273fdb9086")]
+[assembly: AssemblyFileVersion("2.2.1.0")]
+[assembly: AssemblyVersion("2.2.1.0")]
+[assembly: AssemblyInformationalVersion("2.2.1+Branch.jenkins-ci.Sha.86a770d8b9e46775dba00c48b483847c68fb35e8")]
