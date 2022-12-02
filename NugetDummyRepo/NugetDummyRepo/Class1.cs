@@ -9,6 +9,7 @@ public class Class1
     public static void PrintStuff()
     {
         
+        
         var assembly = Assembly.GetAssembly(typeof(Class1));
         var version = FileVersionInfo.GetVersionInfo(assembly.Location).ProductVersion;
         
